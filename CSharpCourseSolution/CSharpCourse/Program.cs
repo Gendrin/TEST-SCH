@@ -16,6 +16,7 @@ namespace CSharpCourse
         {
             classA A = new classA();
             //A.data = 1;
+            //test test
             classA.data = 1;
             //A.data
             Homework03();
