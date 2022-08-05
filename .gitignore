@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CSharpCourseSolution/CSharpCourse/bin/Release/netcoreapp2.2
+/CSharpCourseSolution/B_ControlFlow/bin/Debug/netcoreapp2.2
+/CSharpCourseSolution/.vs/ProjectEvaluation
+/CSharpCourseSolution/CSharpCourse/bin/Debug/netcoreapp2.2
+/CSharpCourseSolution/B_ControlFlow/obj/Debug/netcoreapp2.2
+/CSharpCourseSolution/B_ControlFlow/obj
+/CSharpCourseSolution/CSharpCourse/obj
+/CSharpCourseSolution/C_ArraysCollections/obj
+/CSharpCourseSolution/E_Exceptions/E_Exceptions_Files.csproj
+/CSharpCourseSolution/F_Delegation/obj

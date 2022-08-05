@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z3IMaCxG6S+Qden90TfdCwZ0SmoiP/L2dKXsAkcyTghhp3fUoXYXwF4EV9HEYa0J53dNSFZlhsdct8fNY0Yy/w==",
+  "success": true,
+  "projectFilePath": "H:\\1+GEEK_TEACH\\С#\\Doc\\test_old\\CSharpCourseSolution\\E_Exceptions\\E_Exceptions_Files.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gendr\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\Gendr\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\Gendr\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\Gendr\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\Gendr\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\Gendr\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\Gendr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
